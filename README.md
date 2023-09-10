@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="25" height="25" />, I'm Mohd Arbaaz Siddiqui</h1>
-<h3 align="center">Hello! I'm an aspiring web and app developer from India, currently pursuing my B.Tech degree at Pranveer Singh Institute Of Technology in Kanpur. I'm passionate about technology, and as an Indian, I'm dedicated to creating innovative solutions in the ever-evolving digital world.</h3>
+<h3 align="center">I'm an aspiring web and app developer from India, currently pursuing my B.Tech degree at Pranveer Singh Institute Of Technology in Kanpur. I'm passionate about technology, and as an Indian, I'm dedicated to creating innovative solutions in the ever-evolving digital world.</h3>
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 
 <img  align="right" width="250" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
