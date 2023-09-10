@@ -1,8 +1,11 @@
-![MasterHead](https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=1060&t=st=1694350767~exp=1694351367~hmac=dbcd340c59cd7c5bd9c12c6a930994896285d7a389f48abb14cd8e396157c334)
-<h1 align="center">Hi 👋, I'm Mohd Arbaaz Siddiqui</h1>
-<h3 align="center">Hello! I'm an aspiring web and app developer from India, currently pursuing my B.Tech degree at Pranveer Singh Institute Of Technology in Kanpur. I'm passionate about technology, and as an Indian, I'm dedicated to creating innovative solutions in the ever-evolving digital world.</h3>
+![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 
-<img  align="right" width="250" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="25" height="25" />, I'm Mohd Arbaaz Siddiqui</h1>
+<h3 align="center">Hello! I'm an aspiring web and app developer from India, currently pursuing my B.Tech degree at Pranveer Singh Institute Of Technology in Kanpur. I'm passionate about technology, and as an Indian, I'm dedicated to creating innovative solutions in the ever-evolving digital world.</h3>
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
+
+<img  align="right" width="250" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsukuna&label=Profile%20views&color=0e75b6&style=flat" alt="iamsukuna" /> </p>
 
 
